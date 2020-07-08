@@ -1,2 +1,2 @@
-# BaekJoon-Python-
+# BaekJoon-Python
 Prepare Code Test
